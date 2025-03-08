@@ -35,5 +35,5 @@ O código segue a seguinte estrutura:
 - Para fechar a janela, pressione o botão de fechar ou **ALT+F4**.
 
 ---
-Projeto desenvolvido para prática de OpenGL com Python. 🚀
+Projeto desenvolvido para a matéria de Computação Gráfica ministrada pelo professor Marcelo Costa Oliveira, para a prática de OpenGL  com Python.
 
